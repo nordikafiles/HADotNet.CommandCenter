@@ -1,11 +1,10 @@
 {
-    "name": "HA Command Center (nordikafiles fork)",
+    "name": "HA Command Center (nordikafiles fork2)",
     "version": "0.6.0",
-    "slug": "hacc",
+    "slug": "hacc2",
     "description": "A wall-mountable tablet interface for Home Assistant",
     "webui": "http://[HOST]:[PORT:8095]/",
     "arch": [ "amd64", "i386", "armv7", "armhf" ],
-    "image": "qjake/hacc-hassio-{arch}",
     "url": "https://github.com/nordikafiles/HADotNet.CommandCenter",
     "startup": "application",
     "boot": "auto",
